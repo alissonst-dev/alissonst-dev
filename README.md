@@ -10,7 +10,7 @@
 
 ---
 
-<h3 align="center">Contate-me comigo!</h3>
+<h3 align="center">Contate-me!</h3>
 
 <div align="center">
 
