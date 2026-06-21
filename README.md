@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-  Estudante de Sistemas na UTFPR. Nas horas vagas, entre uma partida de xadrez e outra, construindo software e explorando o que a tecnologia tem a oferecer.
+ Estudante de Sistemas na UTFPR, focado no desenvolvimento de software e em constante evolução. Nas horas vagas, uma partida de xadrez.
 </p>
 
 ---
@@ -38,7 +38,7 @@
 <h3 align="center">GitHub Stats</h3>
 
 <div align="center">
-  <img alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=alissonst-dev&show_icons=true&locale=pt-br&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=9B59B6&text_color=ffffff&icon_color=9B59B6&border_color=9B59B6&ring_color=9B59B6&custom_title=My%20GitHub%20Statistics" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=alissonst-dev&locale=pt_BR&theme=dark&border=9B59B6&ring=9B59B6&fire=9B59B6&currStreakLabel=9B59B6&sideLabels=9B59B6&dates=ffffff&background=000000" />
   <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonst-dev&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=9B59B6&text_color=ffffff&icon_color=9B59B6&border_color=9B59B6&ring_color=9B59B6" />
 </div>
 
