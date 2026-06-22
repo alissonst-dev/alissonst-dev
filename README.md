@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
- Estudante de Sistemas na UTFPR, focado no desenvolvimento de software e em constante evolução. Nas horas vagas, uma partida de xadrez.
+  Estudante de Sistemas na <a href="https://www.utfpr.edu.br">UTFPR</a>, focado no desenvolvimento de software e em constante evolução. Nas horas vagas, uma partida de xadrez.
 </p>
 
 ---
